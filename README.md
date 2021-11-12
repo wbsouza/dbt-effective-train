@@ -1,2 +1,2 @@
-# dbt-effective-train
+# learning-dbt
 dbt Fundamentals
